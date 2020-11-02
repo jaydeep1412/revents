@@ -2,6 +2,7 @@
   "name": "revents",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jaydeep1412.github.io/revents",
   "dependencies": {
     "cuid": "^2.1.1",
     "date-fns": "^1.29.0",
